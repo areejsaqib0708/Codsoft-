@@ -1,4 +1,4 @@
-# Codsoft-Task-5
+# Contact Book application developed using Python's Tkinter library.
 
 ➡Contact Book Application
 This is a simple Contact Book application developed using Python's Tkinter library. It allows users to manage their contacts by performing various operations such as adding, viewing, updating, deleting, and searching for contacts.
